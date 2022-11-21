@@ -1,4 +1,4 @@
-## Ojng Studios Ojng工作室🍎
+## Ojng Studios / Ojng工作室🍎
 这是一个十分简单的组织，专注于制作各种沙雕的Minecraft模组。
 
 This is a very simple organization, focusing on making some amusing Minecraft mods.
