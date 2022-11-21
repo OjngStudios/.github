@@ -1,12 +1,8 @@
-## Hi there 👋
+## Ojng Studios Ojng工作室🍎
+这是一个十分简单的组织，专注于制作各种沙雕的Minecraft模组。
 
-<!--
+This is a very simple organization, focusing on making some amusing Minecraft mods.
 
-**Here are some ideas to get you started:**
+组织名称仅供娱乐，请勿过分认真。
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+The name of the organization is only for entertainment, please do not be too serious.
